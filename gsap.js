@@ -1,1 +1,1 @@
-gsap.to('h1', {x: 1200, scale:2,  duration: 10})
+gsap.to('h1', {x: 100,  duration: 1, repeat: -1, yoyo: true})
